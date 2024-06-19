@@ -3,3 +3,4 @@
 PyTorch CNN卷积神经网络
 cuda 11.6
 torch==1.13.1
+数据获取 私        
